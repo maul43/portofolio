@@ -7,7 +7,7 @@ const Navbar = () => {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
     
     const links = [
-        { label: 'ABOUT', href: '/about' },
+        { label: 'HOME', href: '/about' },
         { label: 'PROJECT', href: '/projects' },
         { label: 'CONTACT', href: '/contact' },
     ];
