@@ -40,10 +40,10 @@ const Portfolio = () => {
             ],
             category: "Full-Stack Web Development",
             icon: "",
-            status: "In Progress",
+            status: "Completed",
             duration: "",
             image: "/portofolio/image copy.png",
-            link: ""
+            link: "https://umamibakso.com/"
         }
     ];
 
@@ -279,3 +279,8 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
+
+//status options:
+//In Progress
+//Completed
